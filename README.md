@@ -11,7 +11,10 @@
   <img align="center" alt="Lorena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lorena-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lorena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Lorenadesenho" height="150" style="border-radius:50px;"
+src="https://user-images.githubusercontent.com/99760905/158648955-5ab3f33d-2340-4d7c-b582-193c79dd0606.jpg">
 </div>
+
 
 ##
 
