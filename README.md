@@ -25,7 +25,7 @@ src="https://user-images.githubusercontent.com/99760905/158648955-5ab3f33d-2340-
 
 ##
 
-<li>📫Como chegar até mim:<br>
+<li>📫How you can find me: <br>
 
 <div> 
    
