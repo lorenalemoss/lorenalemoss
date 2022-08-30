@@ -28,6 +28,8 @@ src="https://user-images.githubusercontent.com/99760905/158648955-5ab3f33d-2340-
 <li>📫 You can find me here ! : <br>
 
 <div> 
+  
+  <li>📫 You can find me here ! : <br>
    
   <a href = "mailto:lorenafernandeslemos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lorena-lemos-0269b1200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
