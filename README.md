@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile. My name is Lorena!
 
 <ul>
-  <li>🧑🏻‍💻 Developer and Systems Analist.</li>
+  <li>🧑🏻‍💻 Developer and Systems Analist. (Student) </li>
   <li>📚 I started my studies at Unicesumar University in Brazil, I'm still a Devjunior looking for an internship. </li>
   <li>💬 Ask-me about: Cats&Food, I love animals and good food. </li> 
 </ul>
