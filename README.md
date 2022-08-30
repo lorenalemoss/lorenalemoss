@@ -1,4 +1,5 @@
-## Olá, Eu sou a Lorena Lemos
+## 👋 Hello! Welcome to my Github profile. My name is Lorena!
+
 
 <div align="center">
   <a href="https://github.com/lorenalemoss">
