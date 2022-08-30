@@ -1,5 +1,12 @@
 ## 👋 Hello! Welcome to my Github profile. My name is Lorena!
 
+<ul>
+  <li>🧑🏻‍💻 Developer and Systems Analist.</li>
+  <li>📚 I started my studies at Unicesumar University in Brazil, I'm still a Devjunior looking for an internship. </li>
+  <li>💬 Ask-me about: Cats&Food, I love animals and good food. </li> 
+</ul>
+
+
 
 <div align="center">
   <a href="https://github.com/lorenalemoss">
@@ -17,6 +24,8 @@ src="https://user-images.githubusercontent.com/99760905/158648955-5ab3f33d-2340-
 
 
 ##
+
+<li>📫Como chegar até mim:<br>
 
 <div> 
    
